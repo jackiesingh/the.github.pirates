@@ -10,7 +10,7 @@ Current Plunder Count: 130 Items
 
 Blogpost: [http://r3versin.com/blog/the-github-pirates/][4]
 
-S3 Listing of all plunders: [http://s3.codepirat.es.s3.amazonaws.com/index.html](http://s3.codepirat.es.s3.amazonaws.com/index.html)
+CDN download of all plunders: [ttp://s.iwantaneff.in/chest-23-04-12.zip](ttp://s.iwantaneff.in/chest-23-04-12.zip)
 
 Last Updated: February 12, 2012
 
@@ -72,8 +72,7 @@ Each file presented here is the same file:
 
  * [http://isharefil.es/JP6u][9]
  * [https://www.box.com/s/mv0qstblqjou0yb8z5f4][10]
- * [http://s3.codepirat.es.s3.amazonaws.com/chest-12-SEP-2012.zip][11]
- * [http://dl.dropbox.com/u/81526473/download/chest-12-SEP-2012.zip][12]
+ * [http://s.iwantaneff.in/chest-23-04-12.zip][12]
 
 #### Chest Contents (130+) Items added:
 
@@ -336,7 +335,7 @@ Readmes
   [9]: http://isharefil.es/JP6u
   [10]: https://www.box.com/s/mv0qstblqjou0yb8z5f4
   [11]: http://s3.codepirat.es.s3.amazonaws.com/index.html
-  [12]: http://dl.dropbox.com/u/81526473/download/chest-12-SEP-2012.zip
+  [12]: http://s.iwantaneff.in/chest-23-04-12.zip
   [13]: http://iwantaneff.in/repo/plugins/github-demos/color-thief/index.html
   [14]: http://iwantaneff.in/repo/plugins/github-demos/css3-social-signin-buttons/index.html
   [15]: http://iwantaneff.in/repo/plugins/github-demos/dzslides/index.html

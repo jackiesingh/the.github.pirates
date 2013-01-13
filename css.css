@@ -127,6 +127,12 @@ li[rel=github] {
     text-indent: 30px;
     margin-bottom: 12px;
 }
+li[rel=cdn] {
+    background: url('img/cdn.ico') no-repeat;
+    list-style: none;
+    text-indent: 30px;
+    margin-bottom: 12px;
+}
 h2 {
     margin-top: 20px;
     margin-bottom: 20px;
