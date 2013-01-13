@@ -10,7 +10,7 @@ Current Plunder Count: 130 Items
 
 Blogpost: [http://r3versin.com/blog/the-github-pirates/][4]
 
-CDN download of all plunders: [ttp://s.iwantaneff.in/chest-23-04-12.zip](ttp://s.iwantaneff.in/chest-23-04-12.zip)
+CDN download of all plunders: [http://s.iwantaneff.in/chest-23-04-12.zip](ttp://s.iwantaneff.in/chest-23-04-12.zip)
 
 Last Updated: February 12, 2012
 
@@ -20,7 +20,7 @@ You are browsing the Github home of **The Code Pirates**
 
 ----------
 
-![alt text][5]
+![yarrr][5]
 
 The Code Pirates is an attempt to make sense of the large amount of frontend web-development gold that exists on Github at the moment. Every now and then, I check the wonderful resource, and more often than not - find a bit of JS/CSS/HTML5 gold pushed to Github.
 
@@ -328,7 +328,7 @@ Readmes
   [2]: http://codepirat.es/
   [3]: https://github.com/downloads/higgo/the.github.pirate
   [4]: http://r3versin.com/blog/the-github-pirates/
-  [5]: http://codepirat.es/img/logo.svg
+  [5]: http://codepirat.es/img/codepirates.svg
   [6]: http://codepirat.es/
   [7]: http://gitlabhq.com/
   [8]: https://gist.github.com/1809637
