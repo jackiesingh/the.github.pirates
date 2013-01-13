@@ -34,6 +34,12 @@ a { color: #f56df7 }
     margin-bottom: 2px;
     background: url(img/fork.png) black no-repeat;
 }
+section[role = "main"]{
+width: 600px;
+position:absolute;
+left:50%;
+margin-left:-300px
+}
 .skull {
     font-size: 150px;
     color: #ff0066;
@@ -111,6 +117,12 @@ li[rel=aws] {
 }
 li[rel=getcloudapp] {
     background: url('img/getcloudapp.ico') no-repeat;
+    list-style: none;
+    text-indent: 30px;
+    margin-bottom: 12px;
+}
+li[rel=github] {
+    background: url('img/github.png') no-repeat;
     list-style: none;
     text-indent: 30px;
     margin-bottom: 12px;
